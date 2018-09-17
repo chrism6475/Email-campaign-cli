@@ -1,0 +1,3 @@
+
+ACTIVECAMPAIGN_URL = 'https://christianmichel107.api-us1.com'
+ACTIVECAMPAIGN_API_KEY = '3a482e5d7020e3e096e4caaf5215d8ac40ca349de736db1f6822a11cc3fb7f53773d29ec'
